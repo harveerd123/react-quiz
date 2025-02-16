@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is a quiz which retrieves information for it using an API. The application makes use of UseReducer 
+
 
 ## Available Scripts
 
